@@ -13,6 +13,6 @@
 ## How To Run Tests
 * checkout project
 * mvn clean compile
-* mvn test
+* mvn test or use junit tests from IDE (intelliJ and Eclipse)
 
 
